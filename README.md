@@ -1,4 +1,4 @@
-# 🔍 GPT Feedback Engine
+# 🔍 GPT Review Engine
 
 A powerful, interactive Streamlit application for analyzing and evaluating AI responses across three critical dimensions: **Helpfulness**, **Truthfulness**, and **Harmlessness**. Perfect for researchers, developers, and AI enthusiasts who want to systematically assess prompt quality and response effectiveness.
 
